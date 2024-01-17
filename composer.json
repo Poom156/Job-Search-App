@@ -1,0 +1,15 @@
+{
+    "name": "poom156/workopia-php",
+    "description": "Job listing application",
+    "authors": [
+        {
+            "name": "Poom Pupat"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
